@@ -99,3 +99,5 @@ remote_theme: showzeng/Minimalism
 
 exclude:
   - new
+
+theme: jekyll-theme-cayman
